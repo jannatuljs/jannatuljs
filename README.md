@@ -19,7 +19,7 @@
 <p align="left">✨ Creating bugs since  2023<br>📚 I'm currently learning programing<br>🎯 Goals: Mastering scalable architectures & contributing to open-source<br>🎲 Fun fact: I debug my code more than I write it!</p>
 
 ###
-[![GitHub Streak](https://github-readme-streak-stats-indol-chi.vercel.app?user=&theme=dark)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jannatuljs)](https://github.com/jannatuljs/github-readme-stats)
 
 
 <h2 align="left">I code with</h2>
