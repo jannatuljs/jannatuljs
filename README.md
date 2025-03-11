@@ -19,6 +19,7 @@
 <p align="left">✨ Creating bugs since  2023<br>📚 I'm currently learning programing<br>🎯 Goals: Mastering scalable architectures & contributing to open-source<br>🎲 Fun fact: I debug my code more than I write it!</p>
 
 ###
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical)
 
 <h2 align="left">I code with</h2>
 
